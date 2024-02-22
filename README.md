@@ -2,7 +2,7 @@
 
 
 ## Composition
-
+wd
 This starter kit is composed of:
 
 - [Next.js](https://nextjs.org)
